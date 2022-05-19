@@ -1,0 +1,291 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="shortcut icon" type="image/x-icon" href="/static/head.png">
+    <title>Head Soccer | McMakistein</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/static/css/home.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+
+    <script src="/static/js/home.js"></script>
+</head>
+<body>
+
+<div id="navbar">
+    <div class="container">
+        <a href="/" class="navbar-button"><h2 class="col-sm-3">McMakistein</h2></a>
+
+        <div align="right" class="col-sm-9">
+            <a href="/" class="navbar-button" style="margin-left: 20px;">Start</a>
+            <a href="/creations" class="navbar-button" style="margin-left: 20px;">Creations</a>
+        </div>
+    </div>
+</div>
+
+<div id="navbar-spacer"></div>
+
+
+
+    <link rel="stylesheet" href="/static/css/creation.css">
+
+    <div id="background"></div>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Skyscraper Anzeige -->
+    <ins class="adsbygoogle visible-lg" id="skyscraper-ad"
+         style="display:inline-block;width:160px;height:600px"
+         data-ad-client="ca-pub-3196474061990249"
+         data-ad-slot="5934628013"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+    <div id="creation-banner">
+        <div class="container">
+            <div class="col-md-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VkjGzgqGYdw"
+                            frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h1 align="center" id="title">
+                    Head Soccer
+                </h1>
+
+                <div id="requirements">
+                    <p>-Minecraft Version: 1.8.8<br />-FOV: 70/Normal<br />-Multi- and Singleplayer compatible.<br />-A decent computer. (I recommend putting your render distance to a minimum, 3 chunks is all you really need)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="content">
+        <div class="row">
+            <div class="col-md-6">
+                <p>The well-known mobile game &quot;Head Soccer&quot; has come to minecraft. You can either play against one of your friends or against a bot I programmed for you. Just download the version of your choice from one of the links below and you will be ready to go. Before you start playing though, please make sure that you set your FOV to 75/Normal. Should you experience any bugs, please report them to me as soon as possible so I can fix the map for you guys. I hope you enjoy. :D</p>
+                <br>
+                <div align="right"><b>Downloads: 46486</b></div>
+            </div>
+
+            
+                <div class="col-md-6" align="center" id="buttons">
+                    
+                        <a href="/creations/download/head_soccer/sp" onclick="showSubOverlay()">
+                            <img src="/static/img/download.png" height="60px">Download
+                        </a>
+                    
+                    
+                        <a href="/creations/download/head_soccer/mp" onclick="showSubOverlay()">
+                            <img src="/static/img/download.png" height="60px">Multiplayer
+                        </a>
+                    
+                    
+                </div>
+            
+        </div>
+
+        <hr style="border-top: 1px solid #4f4f4f; width: 80%"/>
+
+        <div class="row">
+            <div class="col-md-6" align="center">
+                <h1>Legal Permission</h1>
+
+                If you record and publish a video about this creation,
+                please provide credit to the creator/s. Here's a template:
+                <br><br>
+
+                <div id="legal-template" align="left">
+                    Head Soccer by McMakistein<br>
+                    Download: https://mcmakistein.com/creations/head_soccer<br>
+                    Creator: https://youtube.com/McMakistein
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h1>You might also like:</h1>
+
+                <div class="col-xs-6">
+                    <a href="tictactoe">
+                        <img src="https://mcmakistein.com/files/thumbnails/TicTacToe_Combat4.png" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-xs-6">
+                    <a href="futuristic_house_tools">
+                        <img src="https://mcmakistein.com/files/thumbnails/FuturisticHouse.png" class="img-responsive">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div align="center">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- McMakistein Ad -->
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:728px;height:90px"
+                 data-ad-client="ca-pub-3196474061990249"
+                 data-ad-slot="1144201614"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+
+    <div id="screenshots" align="center">
+        
+            <img src="https://mcmakistein.com/files/images/HeadSoccer1.png">
+        
+            <img src="https://mcmakistein.com/files/images/HeadSoccer2.png">
+        
+            <img src="https://mcmakistein.com/files/images/HeadSoccer3.png">
+        
+            <img src="https://mcmakistein.com/files/images/HeadSoccer4.png">
+        
+            <img src="https://mcmakistein.com/files/images/HeadSoccer5.png">
+        
+    </div>
+
+
+
+    <div id="overlay-sub" onclick="hideSubOverlay()">
+        <div class="overlay-img" align="center"
+             style="background-image: url(/static/img/subscribe_message_empty.png)">
+            <a href="https://www.youtube.com/user/McMakistein" target="_blank">
+                <img src="/static/img/subscribe_button.png" alt="continue" width="250" onclick="hideSubOverlay()">
+            </a>
+        </div>
+    </div>
+
+    <style>
+        #overlay-sub {
+            z-index: 20;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: rgba(0, 0, 0, 0.49);
+            display: none;
+        }
+
+        #overlay-sub .overlay-img a {
+            position: relative;
+            top: 150px;
+            margin-left: 140px;
+        }
+    </style>
+
+    <script>
+        var subOverlayShown = false;
+
+        function showSubOverlay() {
+            if (!subOverlayShown) {
+                $("#overlay-sub").css("display", "block");
+                subOverlayShown = true;
+            }
+        }
+
+        function hideSubOverlay() {
+            $("#overlay-sub").css("display", "none");
+        }
+    </script>
+
+
+
+<div id="footer">
+    <div class="container" align="center">
+        Website programmed by <a href="https://youtube.com/timwoocker" target="_blank">Tim Woocker</a><br>
+        McMakistein © 2017
+
+        <br>
+        <hr class="col-xs-8 col-xs-offset-2" style="border-top: 1px solid #999;">
+
+        <div class="col-xs-12">This website is not endorsed, associated or affiliated with Mojang AB.</div>
+
+        <br>
+        <hr class="col-xs-8 col-xs-offset-2" style="border-top: 1px solid #999;">
+
+        <div class="col-xs-12">Questions? Contact me: <span style="font-style: italic">mcmakistein@gmail.com</span>
+        </div>
+
+        <div class="col-xs-12"><a href="/legal">Legal Notice</a></div>
+    </div>
+</div>
+
+<div id="overlay-back">
+    <div class="overlay-img" align="center">
+        <img src="/static/img/ads-continue.png" alt="continue" width="250" onclick="hideAdMsg()">
+    </div>
+</div>
+
+<style>
+    #overlay-back {
+        z-index: 20;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(0, 0, 0, 0.49);
+        display: none;
+    }
+
+    .overlay-img {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 500px;
+        height: 300px;
+        background: url(/static/img/using_adblocker_message.png) center / contain no-repeat;
+    }
+
+    #overlay-back .overlay-img img {
+        margin-top: 196px;
+    }
+</style>
+
+<script src="/static/js/ads.js"></script>
+<script type="text/javascript">
+
+    if (document.getElementById('CHGBWtzIsNvp')) {
+        console.log("Ads not blocked. Thanks")
+    } else {
+        console.log("Adblock detected.");
+        $("#overlay-back").css("display", "block")
+    }
+
+    function hideAdMsg() {
+        $("#overlay-back").css("display", "none")
+    }
+
+</script>
+
+<script>
+    // Separates the download counters with kommas
+    var monthlyDownloads = "";
+    monthlyDownloads = monthlyDownloads.replace(new RegExp("^(\\d{" + (monthlyDownloads.length % 3 ? monthlyDownloads.length % 3 : 0) + "})(\\d{3})", "g"), "$1 $2").replace(/(\d{3})+?/gi, "$1 ").trim().replace(/\s/g, ",");
+    $("#downloads-monthly").text(monthlyDownloads);
+
+    var totalDownloads = "";
+    totalDownloads = totalDownloads.replace(new RegExp("^(\\d{" + (totalDownloads.length % 3 ? totalDownloads.length % 3 : 0) + "})(\\d{3})", "g"), "$1 $2").replace(/(\d{3})+?/gi, "$1 ").trim().replace(/\s/g, ",");
+    $("#downloads-total").text(totalDownloads);
+</script>
+
+
+
+</body>
+</html>
